@@ -26,6 +26,7 @@ h4 {
 img:hover {
   transition-duration: 1s;
   transform: scale(1.05);
+  display:inline-block;
 }
 
 .amiable {
