@@ -48,6 +48,7 @@ img:hover {
 
 .column {
   width:48%;
+  display: horizontal;
 }
 
 .small {
