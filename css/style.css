@@ -47,7 +47,8 @@ img:hover {
 }
 
 .column {
-  width:33%;
+  width:30%;
+  display: inline;
 }
 
 .small {
